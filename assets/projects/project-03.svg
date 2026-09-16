@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720">
+<defs>
+ <linearGradient id="g" x1="0" x2="1"><stop stop-color="#0d1525"/><stop offset="1" stop-color="#18263d"/></linearGradient>
+ <linearGradient id="a" x1="0" x2="1"><stop stop-color="#ffd21f"/><stop offset="1" stop-color="#1977ff"/></linearGradient>
+</defs>
+<rect width="1200" height="720" fill="url(#g)"/>
+<circle cx="1030" cy="130" r="190" fill="#ffd21f" opacity=".08"/>
+<rect x="70" y="70" width="1060" height="580" rx="28" fill="#0b1220" stroke="#2a3954"/>
+<rect x="70" y="70" width="1060" height="70" rx="28" fill="#162238"/>
+<circle cx="105" cy="105" r="8" fill="#08c8f4"/><circle cx="132" cy="105" r="8" fill="#4f6a8d"/><circle cx="159" cy="105" r="8" fill="#4f6a8d"/>
+<rect x="125" y="205" width="520" height="34" rx="10" fill="url(#a)" opacity=".9"/>
+<rect x="125" y="260" width="390" height="16" rx="8" fill="#71819b" opacity=".55"/>
+<rect x="125" y="295" width="450" height="16" rx="8" fill="#71819b" opacity=".35"/>
+<rect x="125" y="345" width="180" height="50" rx="12" fill="#ffd21f" opacity=".9"/>
+<rect x="720" y="205" width="310" height="230" rx="20" fill="#152139" stroke="#2b3b57"/>
+<circle cx="875" cy="320" r="70" fill="url(#a)" opacity=".8"/>
+<path d="M845 320h60M875 290v60" stroke="#07111f" stroke-width="12" stroke-linecap="round"/>
+<text x="125" y="475" fill="white" font-family="Arial, sans-serif" font-size="46" font-weight="700">Gloclab</text>
+<text x="125" y="525" fill="#8fa0ba" font-family="Arial, sans-serif" font-size="23">Travel & car booking</text>
+<text x="125" y="600" fill="#ffd21f" font-family="monospace" font-size="18">PROJECT PREVIEW • REPLACE WITH SCREENSHOT</text>
+</svg>
